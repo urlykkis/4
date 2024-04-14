@@ -1,0 +1,24 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(180deg, #453F46, #836587);
+}
+
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #ffffff;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.box {
+    width: 300px;
+    border-radius: 3px;
+    background-color: #a9a;
+    box-shadow: 3px 3px;
+}
